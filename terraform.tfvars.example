@@ -1,6 +1,0 @@
-# Example variables - DO NOT commit real secrets
-aws_region = "us-east-1"
-aws_profile = "" # optional
-project_name = "new-infra-3-tier"
-admin_cidr = "1.2.3.4/32" # replace with your IP
-db_password = "ChangeThisInTFC" # set this in Terraform Cloud workspace variables (sensitive)

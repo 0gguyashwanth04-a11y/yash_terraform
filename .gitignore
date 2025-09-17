@@ -1,15 +1,6 @@
-# Terraform
 .terraform/
-.terraform.lock.hcl
 *.tfstate
 *.tfstate.*
-crash.log
-override.tf
-override.tf.json
-*_override.tf
-secret.auto.tfvars
-# Keys and sensitive files
+*.tfvars
 *.pem
 *.key
-*.backup
-*.tfvars
