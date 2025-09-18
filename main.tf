@@ -1,4 +1,4 @@
-locals { name = var.project_name }
+loc { name = var.project_name }
 
 data "aws_availability_zones" "available" {}
 
